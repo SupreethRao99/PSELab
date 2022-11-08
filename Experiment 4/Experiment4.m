@@ -1,5 +1,5 @@
 % Supreeth Rao 1MS19EE057 19/10/2022
-% Determination of power angle characteristics of salient and non salient pole motor
+% Determination of power angle characteristics of salient and non-salient pole motor
 clc;
 clear;
 P=48;
