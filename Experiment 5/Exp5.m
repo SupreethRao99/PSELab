@@ -1,5 +1,6 @@
 % Supreeth Rao 1MS19EE057 Experiment 5
-% Swing Curve
+% To plot swing curve, find the system stability and critical clearning time for a single machine
+% connected to an infinite bus
 
 x1 = 0.45;
 x2 = 1.25;
