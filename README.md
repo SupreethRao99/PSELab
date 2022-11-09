@@ -10,7 +10,7 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 |3. | Determination of ABCD Parameters, Regulation and Transmission Effeciency of a Transmission Line                                 |✅|
 |4. | Determination of power angle curve for a salient pole and non-salient pole synchronous machine                                  |✅|
 |5. | Optimal generator scheduling for a thermal power plant                                                                          |  |
-|6. | Load flow analysis using Gauss-Siedal and Newton-Raphson method                                                                 |  |
+|6. | Load flow analysis using Gauss-Siedel and Newton-Raphson method                                                                 |✅|
 |7. | Fault analysis on isolated 3-phase synchronous machine                                                                          |  |
 |8. | To plot swing curve, find the system stability and critical clearing time for a single machine connected to an infinite bus     |✅|
 |9. | Voltage control by load compensation                                                                                            |  |
@@ -47,6 +47,9 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 │   ├── Exp5_simulink.slx
 │   ├── Exp5_simulink.slxc
 │   └── Experiment5_simulink_output.pdf
+├── Experiment 6
+│   ├── Exp6.m
+│   └── Exp6.pdf
 ├── LICENSE
 └── README.md
 ```
