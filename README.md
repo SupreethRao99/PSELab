@@ -9,7 +9,7 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 |2. | Formation of Z-Bus using building algorithm                                                                                     |✅|
 |3. | Determination of ABCD Parameters, Regulation and Transmission Effeciency of a Transmission Line                                 |✅|
 |4. | Determination of power angle curve for a salient pole and non-salient pole synchronous machine                                  |✅|
-|5. | Optimal generator scheduling for a thermal power plant                                                                          |  |
+|5. | Optimal generator scheduling for a thermal power plant                                                                          |✅|
 |6. | Load flow analysis using Gauss-Siedel and Newton-Raphson method                                                                 |✅|
 |7. | Fault analysis on isolated 3-phase synchronous machine                                                                          |  |
 |8. | To plot swing curve, find the system stability and critical clearing time for a single machine connected to an infinite bus     |✅|
@@ -50,6 +50,9 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 ├── Experiment 6
 │   ├── Exp6.m
 │   └── Exp6.pdf
+├── Experiment 7
+│   ├── Exp7.m
+│   └── Exp7.pdf
 ├── LICENSE
 └── README.md
 ```
