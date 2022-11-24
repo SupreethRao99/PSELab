@@ -14,7 +14,7 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 |7. | Fault analysis on isolated 3-phase synchronous machine                                                                          |  |
 |8. | To plot swing curve, find the system stability and critical clearing time for a single machine connected to an infinite bus     |✅|
 |9. | Voltage control by load compensation                                                                                            |  |
-|10.| Fault Analysis in power system                                                                                                  |  |
+|10.| Fault Analysis in power system                                                                                                  |✅|
 
 ## Project Structure
 ```bash
@@ -45,7 +45,6 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 │   ├── Exp5.pdf
 │   ├── Exp5_simulink.pdf
 │   ├── Exp5_simulink.slx
-│   ├── Exp5_simulink.slxc
 │   └── Experiment5_simulink_output.pdf
 ├── Experiment 6
 │   ├── Exp6.m
@@ -53,6 +52,11 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 ├── Experiment 7
 │   ├── Exp7.m
 │   └── Exp7.pdf
+├── Experiment 8
+│   ├── 1Supreeth_1MS19EE0570L.out0
+│   ├── 1Supreeth_1MS19EE0570S.out0
+│   ├── Supreeth_1MS19EE057.mdb
+│   └── circuit_diagram.bmp
 ├── LICENSE
 └── README.md
 ```
