@@ -13,8 +13,8 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 |6. | Load flow analysis using Gauss-Siedel and Newton-Raphson method                                                                 |✅|
 |7. | Optimal generator scheduling for a thermal power plant                                                                          |✅|
 |8. | Fault Analysis in power system                                                                                                  |✅|
-|9. | Voltage control by load compensation                                                                                            |  |
-|10.| Fault analysis on isolated 3-phase synchronous machine                                                                          |  |
+|9. | Fault analysis on isolated 3-phase synchronous machine                                                                          |✅|
+|10.| Voltage control by load compensation                                                                                            |✅|
 
 ## Project Structure
 ```bash
@@ -22,6 +22,10 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 ├── Experiment 1
 │   ├── Experiment1.m
 │   └── Experiment1.pdf
+├── Experiment 10
+│   ├── Exp10_output.pdf
+│   ├── compensation.pdf
+│   └── compensation.slx
 ├── Experiment 2
 │   ├── Experiment2.m
 │   └── Experiment2.pdf
@@ -40,7 +44,6 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 │   ├── Experiment4_xd_eq_xq.pdf
 │   └── Experiment4_xd_neq_xq.pdf
 ├── Experiment 5
-│   ├── Exp5.html
 │   ├── Exp5.m
 │   ├── Exp5.pdf
 │   ├── Exp5_simulink.pdf
@@ -57,6 +60,11 @@ MATLAB Programs and outputs for Power System Engineering Lab (__EEL76__)
 │   ├── 1Supreeth_1MS19EE0570S.out0
 │   ├── Supreeth_1MS19EE057.mdb
 │   └── circuit_diagram.bmp
+├── Experiment 9
+│   ├── Exp9_Diagram.jpeg
+│   ├── Load Angle.xps
+│   ├── stator_current.xps
+│   └── vf.xps
 ├── LICENSE
 └── README.md
 ```
